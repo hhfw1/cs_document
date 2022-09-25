@@ -1,7 +1,7 @@
 # For Support Join: 'Team CodeStudio: https://discord.gg/ESwSKregtt'
 
 
-Edited Version of esx_documents to support qbcore and work with qb-menu<br />
+Edited Version of esx_documents to support qbcore and work with qb-menu<br/>
 Original: https://github.com/apoiat/ESX_Documents
 
 
@@ -20,15 +20,15 @@ Introducing Documents, This script provides creation, signing, copying and displ
 
 # Features
 
-Create
-Sign
-Show
-Give Copy
-Delete
-Public documents
-Job specific documents
-Custom documents creation
-Language Localization
+Create<br/>
+Sign<br/>
+Show<br/>
+Give Copy<br/>
+Delete<br/>
+Public documents<br/>
+Job specific documents<br/>
+Custom documents creation<br/>
+Language Localization<br/>
 
 
 # Available Commands
