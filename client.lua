@@ -143,7 +143,7 @@ AddEventHandler('documents:menu2', function( test )
             aDocument.headerLastName = cb_player_details.lastname
             aDocument.headerDateOfBirth = cb_player_details.dateofbirth
             aDocument.headerJobLabel = PlayerData.job.label
-            aDocument.headerJobGrade = PlayerData.job.gradename
+            aDocument.headerJobGrade = PlayerData.job.grade.name
             aDocument.locale = 'en'
             SendNUIMessage({
                 type = "createNewForm",
