@@ -56,7 +56,7 @@ qb-menu
 0.00 ms in an active state
 
 
-#How to create your own document.
+# How to create your own document.
 
 Each document is assigned to a specific category. This category can be <b>public</b> for everyone or a <b>job name</b> to be accessible only by citizens in that specific job.
 Each document consists of a <b>headerTitle</b>, <b>headerSubtitle</b> and <b>elements</b>.
