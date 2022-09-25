@@ -28,7 +28,7 @@ Config.Documents['en'] = {
           }
         },
       },
-      ["judge"] = {
+      ["police"] = {
         {
           headerTitle = "PASSPORTS",
           headerSubtitle = "Passports provided by a Judge.",
