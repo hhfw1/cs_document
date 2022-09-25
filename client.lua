@@ -13,6 +13,10 @@ Citizen.CreateThread(function()
     SetNuiFocus(false, false)
 end)
 
+RegisterNetEvent('QBCore:Client:OnPlayerLoaded', function()
+    GetAllUserForms()
+end)
+
 
 AddEventHandler('hhfw:documents:open', function()
     exports['qb-menu']:openMenu({
