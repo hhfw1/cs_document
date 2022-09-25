@@ -2,7 +2,8 @@
 # For Support Join: 'Team CodeStudio: https://discord.gg/ESwSKregtt'
 
 
-
+# Edited Version of esx_documents to support qbcore and work with qb-menu
+# Original: https://github.com/apoiat/ESX_Documents
 
 
 # Description
