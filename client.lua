@@ -17,7 +17,7 @@ RegisterNetEvent('QBCore:Client:OnPlayerLoaded', function()
     GetAllUserForms()
 end)
 
-
+RegisterNetEvent('hhfw:documents:open')
 AddEventHandler('hhfw:documents:open', function()
     exports['qb-menu']:openMenu({
         {
