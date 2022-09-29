@@ -14,6 +14,7 @@ Introducing Documents, This script provides creation, signing, copying and displ
 
 1. Import documents.sql in your database
 2. Configure config according to your needs 
+3. Add documents into qbcore/shared.lua if u want to use documents as an item
 
 
 
