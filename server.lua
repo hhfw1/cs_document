@@ -1,5 +1,9 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 
+QBCore.Functions.CreateUseableItem("documents", function(source)
+    TriggerClientEvent("hhfw:documents:open",source)
+end)
+
 QBCore.Functions.CreateCallback('documents:submitDocument', function(source, cb, data)
     local xPlayer = QBCore.Functions.GetPlayer(source)
     local db_form = nil;
