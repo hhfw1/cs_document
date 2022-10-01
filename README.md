@@ -2,7 +2,7 @@
 
 
 Edited Version of esx_documents to support qbcore and work with qb-menu<br/>
-Original: https://github.com/apoiat/ESX_Documents
+Forum : https://forum.cfx.re/t/free-qb-documents-edited-version-of-esx-documents/4917689
 
 
 # Description
