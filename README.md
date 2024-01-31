@@ -1,4 +1,4 @@
-# For Support Join: 'Team CodeStudio: https://discord.gg/62jqEKz8Sb'
+Join CodeStudio: https://discord.gg/62jqEKz8Sb
 
 
 Edited Version of esx_documents to support qbcore and work with qb-menu<br/>
